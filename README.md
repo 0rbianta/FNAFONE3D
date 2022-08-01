@@ -41,6 +41,27 @@
 
 <p style="font-size: 13px; font-weight: normal; margin: 5px; color: #4A4A4A;"> <a href="https://sketchfab.com/3d-models/gas-stove-9a4b89d7ff5c482dae835df596fdcc2f?utm_medium=embed&utm_campaign=share-popup&utm_content=9a4b89d7ff5c482dae835df596fdcc2f" target="_blank" style="font-weight: bold; color: #1CAAD9;"> Gas Stove </a> by <a href="https://sketchfab.com/topfrank2013?utm_medium=embed&utm_campaign=share-popup&utm_content=9a4b89d7ff5c482dae835df596fdcc2f" target="_blank" style="font-weight: bold; color: #1CAAD9;"> Francesco Coldesina </a> on <a href="https://sketchfab.com?utm_medium=embed&utm_campaign=share-popup&utm_content=9a4b89d7ff5c482dae835df596fdcc2f" target="_blank" style="font-weight: bold; color: #1CAAD9;">Sketchfab</a></p>
 
+
+## 2D Assets
+[FNAF 1 Wall Texture](https://www.pinterest.com/pin/460915343121085319/) by [Lucus Mona Maddison](https://www.pinterest.com/LucusMaddison/) from [Pinterest](https://www.pinterest.com)
+[Five Fonts at Freddy's](https://www.dafont.com/five-fonts-at-freddy-s.font) by [HaydieBoBotv](https://www.dafont.com/profile.php?user=1205350) from [daFont](https://www.dafont.com/)
+[FNAF HW Pack](https://www.mediafire.com/file/tx71am2npsmbe27/FNAF_HW_PACK.zip/file) by Ultra Animatiøn Channel from [YouTube](https://www.youtube.com)
+[Toilets Texture]( https://www.pinterest.com/pin/296815431663950104/) by [Jose Dinis](https://www.pinterest.com/valentim1978/) from [Pinterest](https://www.pinterest.com)
+[Old Deck Wood Texture](https://texturebox.com/old-deck-wood-texture) from [TextureBox](https://texturebox.com)
+[Brown Wooden Surface](https://www.pexels.com/photo/brown-wooden-surface-129733/) by [FWStudio](https://www.pexels.com/@fwstudio-33348/) from [Pexels](https://www.pexels.com)
+[Blood Effect 1](https://footagecrate.com/video-effects/BloodHitTriple) from [FootageCrate](https://footagecrate.com/)
+[Blood Effect 2](https://footagecrate.com/video-effects/footagecrate-4k-blood-hit-2) from [FootageCrate](https://footagecrate.com/)
+[Blood Effect 3](https://footagecrate.com/video-effects/footagecrate-blood-hit-7) from [FootageCrate](https://footagecrate.com/)
+[Blood Effect 4](https://freepikpsd.com/effect-blood-png-transparent-images/698859/) from [Freepikpsd](https://freepikpsd.com/)
+[Dead Screen Blood Effect](https://www.freepik.com/free-vector/red-stains-drops-watercolor_13692335.htm#page=4&query=blood%20texture&position=46&from_view=keyword) by [Vectonauta](https://www.freepik.com/author/vectonauta) from FreePik(https://www.freepik.com)
+[Cobweb](https://www.pinterest.com/pin/486248091023590509/) by [Freepik](https://in.pinterest.com/freepik/) from [Pinterest](https://www.pinterest.com)
+[Floating Stars](https://flyclipart.com/stars-string-floating-star-stars-on-strings-star-symbol-symbol-wand-hd-png-download-1035636) from [FlyClipArt](https://flyclipart.com)
+[Public Pixel Font](https://www.fontspace.com/public-pixel-font-f72305) by [GGBotNet](https://www.fontspace.com/ggbotnet) from [FontSpace](https://www.fontspace.com/)
+[a Anak Cute Font](https://www.fontspace.com/a-anak-cute-font-f53281) by [wepfont](https://www.fontspace.com/wepfont) from [FontSpace](https://www.fontspace.com/)
+[a Angkanya Sebelas Font](https://www.fontspace.com/a-angkanya-sebelas-font-f52622) by [wepfont](https://www.fontspace.com/wepfont) from [FontSpace](https://www.fontspace.com/)
+[TV Static Noise Animation Frames](https://www.youtube.com/watch?v=DH0BQtwEAsM) by [yube07](https://www.youtube.com/user/yube07) from [YouTube](https://www.youtube.com)
+
+
 # Developer's Post-Development Notes
  If I were to starting the development of this game right now, I would not have developed it at all, because all the effort spent on the game could not reach its original purpose due to copyrights. It wasn't bad because I got even better in Unity. During this development process, I found that a simple game engine like Unity was also insufficient to manage somewhat complex content. 2D games are easily developed in Unity and there is not much difficulty. However, when it comes to 3D, you will notice deficiencies in various aspects, both graphics and optimization, compared to a game engine such as Unreal Engine. Unity is a good software for the mobile game industry. It is mobile friendly with its default not overly high graphics. In addition, the use of the game engine is not overly difficult. However, a lot of things on Unity reduces performance and create serious differences in FPS values. From now on I recommend using Unity for making simpler games and making more complex games in a game engine like Unreal Engine.
 
