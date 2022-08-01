@@ -62,6 +62,18 @@
 [TV Static Noise Animation Frames](https://www.youtube.com/watch?v=DH0BQtwEAsM) by [yube07](https://www.youtube.com/user/yube07) from [YouTube](https://www.youtube.com) </br>
 
 
+## Sound Effects
+[Pure Pink Noise](https://www.youtube.com/watch?v=WJ9Go1PnAVA) by [lumokinesis](https://www.youtube.com/c/lumokinesis) from [YouTube](https://www.youtube.com) </br>
+[Hearing Test](https://www.youtube.com/watch?v=YETdTlgtV20) by [HearculesApp](https://www.youtube.com/user/HearculesApp) from [YouTube](https://www.youtube.com) </br>
+[Current 93 - I Have a Special Plan for This World (2000)](https://www.youtube.com/watch?v=lxZpEFJhO6k) by [lazarettwagen](https://www.youtube.com/user/lazarettwagen) from [YouTube](https://www.youtube.com) </br>
+[Five Nights at Freddy's ALL sounds in game](https://www.youtube.com/watch?v=9JLzR1hENNg) by [Greytezi](https://www.youtube.com/user/Greytizi) from [YouTube](https://www.youtube.com) </br>
+[Jumpscare Sound Effect](https://www.youtube.com/watch?v=Z4LtP7aeYP0) by [Sound Effect Database](https://www.youtube.com/c/SoundEffectDatabase) from [YouTube](https://www.youtube.com) </br>
+[Changing Camera Sound from FNAF](https://www.youtube.com/watch?v=pKTWFAtCoqY) by [TCB_Cuddles](https://www.youtube.com/c/DocterCuddles) from [YouTube](https://www.youtube.com) </br>
+[Door Open and Close Sound Effects](https://www.youtube.com/watch?v=Nfg1LS5b5x8) by [GamingSoundEffects](https://www.youtube.com/channel/UC1WfVpVwA8LWNhXdHjJzGfQ) from [YouTube](https://www.youtube.com) </br>
+[FNAF 2 - Victory 6 AM](https://www.youtube.com/watch?v=7ht_Syve_z4) by [Luckando47](https://www.youtube.com/user/Luca8494) from [YouTube](https://www.youtube.com) </br>
+
+
+
 # Developer's Post-Development Notes
  If I were to starting the development of this game right now, I would not have developed it at all, because all the effort spent on the game could not reach its original purpose due to copyrights. It wasn't bad because I got even better in Unity. During this development process, I found that a simple game engine like Unity was also insufficient to manage somewhat complex content. 2D games are easily developed in Unity and there is not much difficulty. However, when it comes to 3D, you will notice deficiencies in various aspects, both graphics and optimization, compared to a game engine such as Unreal Engine. Unity is a good software for the mobile game industry. It is mobile friendly with its default not overly high graphics. In addition, the use of the game engine is not overly difficult. However, a lot of things on Unity reduces performance and create serious differences in FPS values. From now on I recommend using Unity for making simpler games and making more complex games in a game engine like Unreal Engine.
 
