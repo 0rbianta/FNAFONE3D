@@ -43,23 +43,23 @@
 
 
 ## 2D Assets
-[FNAF 1 Wall Texture](https://www.pinterest.com/pin/460915343121085319/) by [Lucus Mona Maddison](https://www.pinterest.com/LucusMaddison/) from [Pinterest](https://www.pinterest.com)
-[Five Fonts at Freddy's](https://www.dafont.com/five-fonts-at-freddy-s.font) by [HaydieBoBotv](https://www.dafont.com/profile.php?user=1205350) from [daFont](https://www.dafont.com/)
-[FNAF HW Pack](https://www.mediafire.com/file/tx71am2npsmbe27/FNAF_HW_PACK.zip/file) by Ultra Animatiøn Channel from [YouTube](https://www.youtube.com)
-[Toilets Texture]( https://www.pinterest.com/pin/296815431663950104/) by [Jose Dinis](https://www.pinterest.com/valentim1978/) from [Pinterest](https://www.pinterest.com)
-[Old Deck Wood Texture](https://texturebox.com/old-deck-wood-texture) from [TextureBox](https://texturebox.com)
-[Brown Wooden Surface](https://www.pexels.com/photo/brown-wooden-surface-129733/) by [FWStudio](https://www.pexels.com/@fwstudio-33348/) from [Pexels](https://www.pexels.com)
-[Blood Effect 1](https://footagecrate.com/video-effects/BloodHitTriple) from [FootageCrate](https://footagecrate.com/)
-[Blood Effect 2](https://footagecrate.com/video-effects/footagecrate-4k-blood-hit-2) from [FootageCrate](https://footagecrate.com/)
-[Blood Effect 3](https://footagecrate.com/video-effects/footagecrate-blood-hit-7) from [FootageCrate](https://footagecrate.com/)
-[Blood Effect 4](https://freepikpsd.com/effect-blood-png-transparent-images/698859/) from [Freepikpsd](https://freepikpsd.com/)
-[Dead Screen Blood Effect](https://www.freepik.com/free-vector/red-stains-drops-watercolor_13692335.htm#page=4&query=blood%20texture&position=46&from_view=keyword) by [Vectonauta](https://www.freepik.com/author/vectonauta) from FreePik(https://www.freepik.com)
-[Cobweb](https://www.pinterest.com/pin/486248091023590509/) by [Freepik](https://in.pinterest.com/freepik/) from [Pinterest](https://www.pinterest.com)
-[Floating Stars](https://flyclipart.com/stars-string-floating-star-stars-on-strings-star-symbol-symbol-wand-hd-png-download-1035636) from [FlyClipArt](https://flyclipart.com)
-[Public Pixel Font](https://www.fontspace.com/public-pixel-font-f72305) by [GGBotNet](https://www.fontspace.com/ggbotnet) from [FontSpace](https://www.fontspace.com/)
-[a Anak Cute Font](https://www.fontspace.com/a-anak-cute-font-f53281) by [wepfont](https://www.fontspace.com/wepfont) from [FontSpace](https://www.fontspace.com/)
-[a Angkanya Sebelas Font](https://www.fontspace.com/a-angkanya-sebelas-font-f52622) by [wepfont](https://www.fontspace.com/wepfont) from [FontSpace](https://www.fontspace.com/)
-[TV Static Noise Animation Frames](https://www.youtube.com/watch?v=DH0BQtwEAsM) by [yube07](https://www.youtube.com/user/yube07) from [YouTube](https://www.youtube.com)
+[FNAF 1 Wall Texture](https://www.pinterest.com/pin/460915343121085319/) by [Lucus Mona Maddison](https://www.pinterest.com/LucusMaddison/) from [Pinterest](https://www.pinterest.com) </br>
+[Five Fonts at Freddy's](https://www.dafont.com/five-fonts-at-freddy-s.font) by [HaydieBoBotv](https://www.dafont.com/profile.php?user=1205350) from [daFont](https://www.dafont.com/) </br>
+[FNAF HW Pack](https://www.mediafire.com/file/tx71am2npsmbe27/FNAF_HW_PACK.zip/file) by Ultra Animatiøn Channel from [YouTube](https://www.youtube.com) </br>
+[Toilets Texture]( https://www.pinterest.com/pin/296815431663950104/) by [Jose Dinis](https://www.pinterest.com/valentim1978/) from [Pinterest](https://www.pinterest.com) </br>
+[Old Deck Wood Texture](https://texturebox.com/old-deck-wood-texture) from [TextureBox](https://texturebox.com) </br>
+[Brown Wooden Surface](https://www.pexels.com/photo/brown-wooden-surface-129733/) by [FWStudio](https://www.pexels.com/@fwstudio-33348/) from [Pexels](https://www.pexels.com) </br>
+[Blood Effect 1](https://footagecrate.com/video-effects/BloodHitTriple) from [FootageCrate](https://footagecrate.com/) </br>
+[Blood Effect 2](https://footagecrate.com/video-effects/footagecrate-4k-blood-hit-2) from [FootageCrate](https://footagecrate.com/) </br>
+[Blood Effect 3](https://footagecrate.com/video-effects/footagecrate-blood-hit-7) from [FootageCrate](https://footagecrate.com/) </br>
+[Blood Effect 4](https://freepikpsd.com/effect-blood-png-transparent-images/698859/) from [Freepikpsd](https://freepikpsd.com/) </br>
+[Dead Screen Blood Effect](https://www.freepik.com/free-vector/red-stains-drops-watercolor_13692335.htm#page=4&query=blood%20texture&position=46&from_view=keyword) by [Vectonauta](https://www.freepik.com/author/vectonauta) from FreePik(https://www.freepik.com) </br>
+[Cobweb](https://www.pinterest.com/pin/486248091023590509/) by [Freepik](https://in.pinterest.com/freepik/) from [Pinterest](https://www.pinterest.com) </br>
+[Floating Stars](https://flyclipart.com/stars-string-floating-star-stars-on-strings-star-symbol-symbol-wand-hd-png-download-1035636) from [FlyClipArt](https://flyclipart.com) </br>
+[Public Pixel Font](https://www.fontspace.com/public-pixel-font-f72305) by [GGBotNet](https://www.fontspace.com/ggbotnet) from [FontSpace](https://www.fontspace.com/) </br>
+[a Anak Cute Font](https://www.fontspace.com/a-anak-cute-font-f53281) by [wepfont](https://www.fontspace.com/wepfont) from [FontSpace](https://www.fontspace.com/) </br>
+[a Angkanya Sebelas Font](https://www.fontspace.com/a-angkanya-sebelas-font-f52622) by [wepfont](https://www.fontspace.com/wepfont) from [FontSpace](https://www.fontspace.com/) </br>
+[TV Static Noise Animation Frames](https://www.youtube.com/watch?v=DH0BQtwEAsM) by [yube07](https://www.youtube.com/user/yube07) from [YouTube](https://www.youtube.com) </br>
 
 
 # Developer's Post-Development Notes
