@@ -72,14 +72,19 @@
 [Door Open and Close Sound Effects](https://www.youtube.com/watch?v=Nfg1LS5b5x8) by [GamingSoundEffects](https://www.youtube.com/channel/UC1WfVpVwA8LWNhXdHjJzGfQ) from [YouTube](https://www.youtube.com) </br>
 [FNAF 2 - Victory 6 AM](https://www.youtube.com/watch?v=7ht_Syve_z4) by [Luckando47](https://www.youtube.com/user/Luca8494) from [YouTube](https://www.youtube.com) </br>
 
-
+ - We paid as much attention as possible to the licensing of the assets we use and tried to make sure that its allowed for commercial/personal use.
+ - All the codes used on this project is unique and not taken from any source.
+ - Character animations made with [Mixamo.com](https://www.mixamo.com)
 
 # Developer's Post-Development Notes
  If I were to starting the development of this game right now, I would not have developed it at all, because all the effort spent on the game could not reach its original purpose due to copyrights. It wasn't bad because I got even better in Unity. During this development process, I found that a simple game engine like Unity was also insufficient to manage somewhat complex content. 2D games are easily developed in Unity and there is not much difficulty. However, when it comes to 3D, you will notice deficiencies in various aspects, both graphics and optimization, compared to a game engine such as Unreal Engine. Unity is a good software for the mobile game industry. It is mobile friendly with its default not overly high graphics. In addition, the use of the game engine is not overly difficult. However, a lot of things on Unity reduces performance and create serious differences in FPS values. From now on I recommend using Unity for making simpler games and making more complex games in a game engine like Unreal Engine.
 
  In brief, use Unity for making simple games and Unreal for advanced ones like open world games.
- 
- # Are You Planning to Join Us?
+
+# If The Project Had Continued
+ If the project had continued, the stage curtains would have had a clouch physics instead of a static mesh, which would have made them look more realistic. There would be levels of difficulty and as the number of nights progressed increases the number of animatronics active would change, the length of the night would get longer so the player had more time to find the mysteries hidden inside the map. When the game was first started, there would be a tutorial that taughts the controls. Some bugs would have been fixed and the animatronics coming to the security gate would have made wait instead of animating walking towards the gate.
+
+# Are You Planning to Join Us?
  Who wouldn't want to be an FNAF developer? So socialize and get support on our Discord channel and bring a new level to FNAF games with the ready-made codes and resources we have shared!
  [Join Our Discord Server by Clicking Here!](https://discord.gg/uJb5eMRYUY)
  
