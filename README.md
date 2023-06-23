@@ -1,5 +1,5 @@
 # FNAFONE3D-GAME
- 3D Version Of Popular FNAF (Open Source & License-Free) Horror Game Made With Unity
+ 3D Version Of Popular FNAF (Open Source <del>& License-Free</del>) Horror Game Made With Unity
 
  In fact, it is not a complete project. According to my plan It was a commercial project and I were plannin to sell it. However, with FNAF owners copyright permissions It went wrong. I force the limits and talked with some authorities of Clickteam LLC because it was a very big and future calming project. After that I came to the conclusion that I could not publish my game commercially. As a result, I added the last features that need to be added to the game quickly and shared it publicly in an open source way. Enjoy it! If there are new features you would like added, please contribute to our open source shared project. Help/support is done through our Discord server.
 
@@ -84,7 +84,13 @@
 # If The Project Had Continued
  If the project had continued, the stage curtains would have had a clouch physics instead of a static mesh, which would have made them look more realistic. There would be levels of difficulty and as the number of nights progressed increases the number of animatronics active would change, the length of the night would get longer so the player had more time to find the mysteries hidden inside the map. When the game was first started, there would be a tutorial that taughts the controls. Some bugs would have been fixed and the animatronics coming to the security gate would have made wait instead of animating walking towards the gate.
 
+# Licensing Update After 2023-06-23
+Since the project got it's popularity higher and more people started to get interested I decided to restrict licensing rights just a little bit. I will be using Creative Commons BY. Only thing it requires is crediting the developer which is being me, named under "0rbianta". Still taking care of making the project and development as free as possible so no need to worry about legal state. Thanks for being interested to all respectful developers who taking care of licensing.
+
+A copy of the license included on  [license.txt](license.txt) file
+
 # Are You Planning to Join Us?
  Who wouldn't want to be an FNAF developer? So socialize and get support on our Discord channel and bring a new level to FNAF games with the ready-made codes and resources we have shared!
  [Join Our Discord Server by Clicking Here!](https://discord.gg/uJb5eMRYUY)
- 
+
+ ![CC BY 0rbianta 3.0 Logo](README_MD_MEDIA/ccbylogo.png)
